@@ -10,12 +10,12 @@ DEBUG = True  # set to True to enable useful console output
 #ROOT_URLS = ["https://ufax24board.web.app/"]
 
 ROOT_URLS = [
-	"https://ufax24board.web.app/",
-	"https://ufax24board.web.app/about",
-	"https://ufax24board.web.app/contact",
-	"https://ufax24board.web.app/faq",
-	"https://ufax24board.web.app/terms",
-	"https://ufax24board.web.app/policy"
+	"https://ufapro888.netlify.app/",
+	"https://ufapro888.netlify.app/about",
+	"https://ufapro888.netlify.app/blog",
+	"https://ufapro888.netlify.app/terms",
+	"https://ufapro888.netlify.app/privacy-policy",
+	"https://ufapro888.netlify.app/contact-us"
 	]
 
 
